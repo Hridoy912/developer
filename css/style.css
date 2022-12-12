@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.ppp{
+    font-size: 40px;
+}
+.poc{
+    color: rgb(0, 162, 255);
+}
+#potc{
+    display: flex;
+    background-image: url(../images/top-banner.png);
+    background-repeat: no-repeat;
+}
+#potc .half{
+    width: 50%;
+    padding-left: 5%;
+}
+#potc .half img{
+    width: 80%;
+    padding-left: 8%;
+}
+#potc .link_button{
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    background-image: linear-gradient(rgb(68, 0, 255),rgb(0, 183, 255));
+    padding: 10px 40px;
+    border-radius: 5px;
+}
